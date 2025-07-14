@@ -1,0 +1,37 @@
+{
+    "admin": {
+        "password": "password123",
+        "search_history": [
+            "neem",
+            "amruta_balli",
+            "arali"
+        ]
+    },
+    "cse2023": {
+        "password": "ksrce123",
+        "search_history": [
+            "gwdq"
+        ]
+    },
+    "tulsi": {
+        "password": "password123",
+        "search_history": []
+    },
+    "example_user": {
+        "password": "",
+        "search_history": [
+            "cold"
+        ]
+    },
+    "user1": {
+        "password": "",
+        "search_history": [
+            "neem",
+            "cold"
+        ]
+    },
+    "abc123": {
+        "password": "12345",
+        "search_history": []
+    }
+}
